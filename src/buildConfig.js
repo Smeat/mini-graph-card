@@ -34,7 +34,7 @@ export default (config) => {
 
   const conf = {
     animate: false,
-    hour24: false,
+    hour24: true,
     font_size: FONT_SIZE,
     font_size_header: FONT_SIZE_HEADER,
     height: 100,
